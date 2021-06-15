@@ -7,13 +7,13 @@ require('@nomiclabs/hardhat-waffle');
 
 // Go to https://www.alchemyapi.io, sign up, create
 // a new App in its dashboard, and replace "KEY" with its key
-const ALCHEMY_API_KEY = 'rfF45aXtyItXE0ia89yfK9HgxaYKuE_O';
+const ALCHEMY_API_KEY = 'GF818crn7jgi0nsf1rzdAixR8cK7gfw';
 
 // Replace this private key with your Ropsten account private key
 // To export your private key from Metamask, open Metamask and
 // go to Account Details > Export Private Key
 // Be aware of NEVER putting real Ether into testing accounts
-const ROPSTEN_PRIVATE_KEY = 'ec20f200aa43f462b258a8e1598a34e551232ab57b846323a49f887b7c813c66';
+const ROPSTEN_PRIVATE_KEY = '3358bd47f2aa6a4c573243c83da8bc999266e8d9fb1d3a33f6419e3700044cf9';
 
 // This is a sample Hardhat task. To learn how to create your own go to
 // https://hardhat.org/guides/create-task.html
